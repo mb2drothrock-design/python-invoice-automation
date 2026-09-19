@@ -1,0 +1,6 @@
+invoice_number,customer_name,customer_email,issue_date,due_date,description,quantity,unit_price,tax_rate
+INV-1001,Acme Design Co.,accounts@acmedesign.example,2026-09-19,2026-10-03,Workflow automation setup,1,450.00,8.00
+INV-1001,Acme Design Co.,accounts@acmedesign.example,2026-09-19,2026-10-03,API integration,3,95.00,8.00
+INV-1002,Blue Ridge Retail,finance@blueridge.example,2026-09-19,2026-10-03,Data cleanup and import,4,80.00,6.00
+INV-1002,Blue Ridge Retail,finance@blueridge.example,2026-09-19,2026-10-03,Automated reporting script,1,275.00,6.00
+INV-1003,Harborstone Services,billing@harborstone.example,2026-09-19,2026-10-03,Custom Python utility,5,65.00,7.50
