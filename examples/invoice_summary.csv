@@ -1,0 +1,4 @@
+invoice_number,customer_name,customer_email,issue_date,due_date,subtotal,tax_amount,total
+INV-1001,Acme Design Co.,accounts@acmedesign.example,2026-09-19,2026-10-03,735.00,58.80,793.80
+INV-1002,Blue Ridge Retail,finance@blueridge.example,2026-09-19,2026-10-03,595.00,35.70,630.70
+INV-1003,Harborstone Services,billing@harborstone.example,2026-09-19,2026-10-03,325.00,24.38,349.38
